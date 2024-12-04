@@ -16,7 +16,7 @@
   set text(lang: "en")
   set page(paper: "a4")
   set document(title: title, author: author)
-  set text(font: ("Libertinus Serif", "Linux Libertine"), size: 11pt)
+  set text(font: ("Libertinus Serif"), size: 11pt)
   // preamble
   
   page([

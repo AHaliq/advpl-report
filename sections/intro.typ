@@ -12,5 +12,6 @@ Different proofs depending on their type have varying requirements of index or e
 
 == Objectives
 
-1. This project initially serves as an exploration into learning how logical relations and parametricity are used to express univalence computationally. It will achieve this aim by understanding the `Trocq` calculus. @trocq
-2. Additionally, we will attempt to formalize some proofs using the parametricity plugin for Coq. @trocqgithub
+This project initially serves as an exploration into learning how logical relations and parametricity are used to express univalence computationally. It will achieve this aim by understanding the `Trocq` calculus. @trocq
+
+Additionally, we will attempt to formalize some proofs using the parametricity plugin for Coq. @trocqgithub
