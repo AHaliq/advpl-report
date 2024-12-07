@@ -73,7 +73,7 @@ Thus we say that $p$ is a parametricity witness of type equality $A$ and $B$ wit
   caption: [Parametricity Witness of Type Equality],
 )
 
-The standard book HoTT definition for equivalence $A equiv B$ is given as a contractible fibre. However it is also proposed that a more symmetric definition in terms of relations can be done as well.
+The standard book HoTT definition for equivalence $A equiv B$ is given as a contractible fibre. However it is also proposed that a more symmetric definition in terms of relations can be done as well. The proof is explored in lemma 2 of @trocq.
 
 #figure(
   $
@@ -85,7 +85,7 @@ The standard book HoTT definition for equivalence $A equiv B$ is given as a cont
   caption: [Symmetric redefinition of equivalence],
 )
 
-The key type here $"isFun"$ expresses that a relation is a functional relation. `Trocq` redefines this as well such that it can define equivalences of different levels, from less information to most being equivalence.
+The key type here $"isFun"$ expresses that a relation is a functional relation. `Trocq` redefines this as well such that it can define equivalences of different levels, from less information to most being equivalence. The proof is explored in lemma 4 of @trocq.
 
 #figure($
   "isFun"(R) = "isUmap"( R ) = Sigma(
