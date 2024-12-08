@@ -76,4 +76,4 @@ Inductive natR : nat -> BigN.t -> Type :=
       natR n n' -> natR (S n) (BigN.succ n').
 ```
 
-The rest of the progress in this direction is described in @bignproblem
+The rest of the progress in this direction is described in @bignproblem onwards.
